@@ -1,5 +1,3 @@
-Solution to the 2nd assignment (week 3) of the R programming course
-
 ### Introduction
 
 This second programming assignment will require you to write an R
@@ -106,6 +104,4 @@ In order to complete this assignment, you must do the following:
 
 This assignment will be graded via peer assessment.
 
-Sources used:
-https://asitarrives.wordpress.com/2014/10/18/understanding-lexical-scoping-in-r-great-guidance-for-community-ta-in-coursera/comment-page-1/#comment-12
-http://datasciencecoursera.blogspot.co.uk/2015/09/r-programming-programming-assignment-2.html
+
