@@ -1,3 +1,5 @@
+Solution to the 2nd assignment (week 3) of the R programming course
+
 ### Introduction
 
 This second programming assignment will require you to write an R
