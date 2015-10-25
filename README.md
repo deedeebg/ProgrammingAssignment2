@@ -105,3 +105,7 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+Sources used:
+https://asitarrives.wordpress.com/2014/10/18/understanding-lexical-scoping-in-r-great-guidance-for-community-ta-in-coursera/comment-page-1/#comment-12
+http://datasciencecoursera.blogspot.co.uk/2015/09/r-programming-programming-assignment-2.html
