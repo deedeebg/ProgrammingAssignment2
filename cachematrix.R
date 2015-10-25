@@ -23,7 +23,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 # The function first checks if the inverse has already been performed. 
-# If not, it computes the inverse and sets the value in the cache via setinverse function
+# If not, it computes the inverse and sets the value in the cache using the setinverse function
 # If yes, it skips the computation and goes directly to the result. 
 
 # The function assumes that the matrix is always invertible.
